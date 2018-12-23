@@ -1,0 +1,5 @@
+﻿  TaskTwo.cpp
+d:\workspace\asm\tasktwo\tasktwo\tasktwo.cpp(80): warning C4102: FILL: неиспользованная метка
+d:\workspace\asm\tasktwo\tasktwo\tasktwo.cpp(100): warning C4102: WHILE: неиспользованная метка
+d:\workspace\asm\tasktwo\tasktwo\tasktwo.cpp(104): warning C4102: END: неиспользованная метка
+  TaskTwo.vcxproj -> D:\Workspace\asm\TaskTwo\Debug\TaskTwo.exe
